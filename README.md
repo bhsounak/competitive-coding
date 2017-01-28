@@ -5,6 +5,9 @@
 	Python 2.*
 
 ##Running A Problem
-	
-	`python <filename>`
+
+```python	
+python <filename>
+```
+
 
